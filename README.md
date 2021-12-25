@@ -1,6 +1,6 @@
-- = = = = = = = = = = = = = = -
--                             -
--            hello            -
--       have a nice day       -
--                             -
-- = = = = = = = = = = = = = = -
+-
+-                             
+-            hello            
+-       have a nice day       
+-                             
+-
